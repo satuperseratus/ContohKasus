@@ -1,3 +1,3 @@
 // Contoh Kasus
 
-console.log("Percobaan Kasus")
+console.log("Percobaan Lagi")
