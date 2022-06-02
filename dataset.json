@@ -1,16 +1,21 @@
 {
-    "data": [
-        [
-            "DTS0000000",
-            "Fahdi Labib",
-            "fahdilabib@gmail.com",
-            "RJS-F"
-        ],
-        [
-            "DTS149252629101-580",
-            "Evan Samuel Wiyendra",
-            "evanwiyendra@gmail.com",
-            "RJS-F"
-        ]
+  "data": [
+    [
+      "DTS0000000",
+      "Fahdi Labib",
+      "fahdilabib@gmail.com",
+      "RJS-F"
+    ],
+    [
+      "DTS149252629101-580",
+      "Evan Samuel Wiyendra",
+      "evanwiyendra@gmail.com",
+      "RJS-F"
+    ],
+    [
+      "DTS149252629101-98",
+      "Bagus Nurhuda",
+      "bagusn05@gmail.com",
+      "RJS-F"
     ]
 }
